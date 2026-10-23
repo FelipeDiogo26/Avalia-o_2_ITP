@@ -94,7 +94,7 @@ Outro teste possível é digitar uma nota acima de 10, como '11'. O programa dev
 
 5. Vídeo de apresentação
 
-Link do vídeo no YouTube: 
+Link do vídeo no YouTube: https://youtu.be/BKC2xNaKO7Y
 
 O vídeo apresentará o funcionamento do programa, explicará suas principais funcionalidades e demonstrará a execução de testes.
 
